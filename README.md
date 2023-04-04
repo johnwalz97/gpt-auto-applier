@@ -1,6 +1,10 @@
 # Job Application AutoFill Using GPT-3
 
-This project is a technical demo and not intended for actual use. I did this for fun and to learn more about GPT-3. I am not responsible for any misuse of this code.
+## Disclaimer
+
+**This project is a technical demo and not intended for actual use. I did this for fun and to learn more about GPT-3. I am not responsible for any misuse of this code.**
+
+## Overview
 
 This project aims to automate the process of filling out job applications using OpenAI's GPT-3. It takes a list of job URLs, navigates to the application form, extracts the form fields, and fills them out intelligently using GPT-3 based on the provided resume and personal information. Additionally, it generates a short, relevant cover letter using GPT-3.
 
