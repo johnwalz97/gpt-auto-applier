@@ -1,0 +1,11 @@
+.env
+.ruff_cache/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info
+*.egg
+*.egg-link
+
+resume.pdf
